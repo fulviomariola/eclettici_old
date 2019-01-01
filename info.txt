@@ -1,0 +1,6 @@
+Sono delle info per eclettici:
+1. dal sito www.tumblr.com ho preso dei video, li posso vedere su la maggior parte di device
+2. ottimo per creare (al momento) quello che riguarda HTML5 come
+    a. creazione index
+    b. creazione tag e opzioni
+    c. creazione quiz/domande alla fine di lezioni
